@@ -27,4 +27,4 @@ This project is a clone of the Cuberto website, developed using HTML, CSS, and J
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Prodigy-WD-01.git
+   git clone https://github.com/yourusername/Prodigy_WD_01.git
